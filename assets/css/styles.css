@@ -42,6 +42,12 @@ div
     position: relative;
 }
 
+.main-card-container{
+    display: flex;
+    position: relative;
+    max-width: 80%;
+}
+
 
 a, u
 {
