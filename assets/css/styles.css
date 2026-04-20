@@ -3,6 +3,8 @@ body{
     font-family: "Courier New", Courier, monospace !important;
     text-align: center;
     color:rgb(234, 234, 234);
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 h1
